@@ -5,7 +5,6 @@ import fs from "fs";
 // fails if a duplicate returns, or if the package is gone and the entry is stale.
 const SINGLE_VERSION: Array<string> = [
   "lightningcss",
-  "@astrojs/markdown-satteri",
   "jsdoc-type-pratt-parser",
 ];
 
